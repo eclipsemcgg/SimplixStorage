@@ -221,19 +221,6 @@
       <url>https://mvnrepository.com/artifact/org.json/json</url>
     </repository>
   </repositories>
-  <pluginRepositories>
-    <pluginRepository>
-      <releases>
-        <updatePolicy>never</updatePolicy>
-      </releases>
-      <snapshots>
-        <enabled>true</enabled>
-      </snapshots>
-      <id>central</id>
-      <name>Maven Plugin Repository</name>
-      <url>http://repo1.maven.org/maven2</url>
-    </pluginRepository>
-  </pluginRepositories>
 
   <scm>
     <connection>scm:git:git://github.com/JavaFactoryDev/LightningStorage.git</connection>
